@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="width: 100%; height: 100%; position: relative; background: #C7358D">
     <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
     <img style="width: 336px; height: 50px; left: 24px; top: 29px; position: absolute" src="https://via.placeholder.com/336x50" />
@@ -66,9 +67,10 @@ color: black;
  font-style: italic;
  font-weight: 900;
  word-wrap: break-word
+```
 
-
- Page 2:
+ ## Page 2:
+ ```
 
  <div style="width: 100%; height: 100%; position: relative; background: #30E0E0">
     <div style="width: 190px; height: 41px; left: 68px; top: 378px; position: absolute; background: #D9D9D9"></div>
@@ -125,9 +127,11 @@ color: black;
  font-style: italic;
  font-weight: 800;
  word-wrap: break-word
+```
 
 
- Page 3:
+ ## Page 3:
+ ```
  <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 342px; height: 648px; left: -17px; top: -21px; position: absolute" src="https://via.placeholder.com/342x648" />
     <div style="width: 257px; height: 52px; left: 27px; top: 81px; position: absolute; background: #D8D00D"></div>
@@ -230,9 +234,9 @@ color: black;
  font-style: italic;
  font-weight: 800;
  word-wrap: break-word
-
- page 4:
-
+```
+ ## page 4:
+```
  <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
     <div style="width: 221px; height: 58px; left: 82px; top: 267px; position: absolute; background: #D9D9D9"></div>
@@ -277,6 +281,7 @@ color: black;
  font-style: italic;
  font-weight: 800;
  word-wrap: break-word
+```
 ## OUTPUT:
 ![image](https://github.com/srinivasanvaiyali/Figma/assets/145117665/e7adabd7-1818-4295-8505-bb0bf31f391b)
 
